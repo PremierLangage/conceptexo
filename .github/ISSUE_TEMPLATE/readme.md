@@ -1,5 +1,5 @@
 
-# Ce répertoire contient des patron d'issues du projet yggdrasil.
+# Ce répertoire contient des patrons d'issues du projet yggdrasil.
 
 Vous pouvez ajouter de nouveau type de demande plus spécifique a votre discipline.
 
